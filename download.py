@@ -16,8 +16,6 @@ parser.add_argument('--data_dir', type=str, default='/Users/personal-macbook/Doc
 parser.add_argument('--save_csv_list', type=bool, default=1)
 args = parser.parse_args()
 
-# print(args.start_index, args.end_index, args.data_dir, args.save_csv_list)
-
 # path that the csv_list.csv file will be stored in
 csv_list_dir = f'{args.data_dir}/csv_list.csv'
 
@@ -37,10 +35,7 @@ def save_csv_list():
         
         # saving the dataframe as csv
         df.to_csv(csv_list_dir, index=False)
-    
-        # saving the csv as sql database
-        # df.to_sql('csv_list_table', con=sqlite3.connect(f'sql_inaturalist_insects.db'), if_exists='replace')
-
+        
 
 def checking_conditions(number_of_csvs=0):
     """ checking the conditions for downloading the images """
@@ -69,10 +64,6 @@ def main():
     df_csv_list = pd.read_csv(csv_list_dir, index_col='index')
     
     checking_conditions(number_of_csvs=df_csv_list.shape[0])
-
-
-    # creating the sqlite connection
-    # sqliteConnection = sqlite3.connect(f'sql_inaturalist_insects.db')
     
     # creating the tar file that will contain all downloades from this instance
     tar_name = f'{args.start_index}_{args.end_index}.tar.gz'
@@ -104,23 +95,13 @@ def main():
         parent_dir = df.loc[0,'ancestry'].split('/')[0]
         shutil.rmtree(f'{args.data_dir}/{parent_dir}')
         
-        # upading the sql table
-        # sqliteConnection.cursor.execute(f'UPDATE csv_list_table SET downloaded = 1 WHERE index = "{i}"')
-
     tar.close()
     
     updating_csv_list_table()
     
-    # Closing teh sql connection
-    # sqliteConnection.commit()
-    # sqliteConnection.close()
-
     return tar_name
     
 
     
 if __name__ == '__main__':
     tar_name = main()
-        
-    # ds_dir="/iplant/home/shared/soynomics/inaturalist/downloaded_data/"
-    # subprocess.run(['iput', f' -f {tar_name} {ds_dir}'])
