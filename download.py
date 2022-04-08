@@ -8,12 +8,15 @@ import argparse
 import os
 import shutil
 
+""" Example: python3 download.py --start_index 0 --end_index 10 --data_dir ../data/ --force_rewrite_csv_list 0 """
+
+
 # getting the start and end index for csv files
 parser = argparse.ArgumentParser('reading the start and end index for csvs')
 parser.add_argument('--start_index', type=int, default=0)
 parser.add_argument('--end_index', type=int, default=2)
 parser.add_argument('--data_dir', type=str, default='/Users/personal-macbook/Documents/projects/inaturalist/data')
-parser.add_argument('--save_csv_list', type=bool, default=1)
+parser.add_argument('--force_rewrite_csv_list', type=bool, default=0)
 args = parser.parse_args()
 
 # path that the csv_list.csv file will be stored in
@@ -23,7 +26,7 @@ csv_list_dir = f'{args.data_dir}/csv_list.csv'
 def save_csv_list():
     """ saving the csv_list.csv file that contains the name of all CSVs"""
     
-    if args.save_csv_list: 
+    if args.force_rewrite_csv_list or ( not os.path.exists(csv_list_dir) ): 
         
         # listing all csv files in the csv directory
         csv_list = glob(f'{args.data_dir}/species_csv/*.csv')
@@ -31,11 +34,21 @@ def save_csv_list():
         # converting the list to pandas dataframe
         df = pd.DataFrame(csv_list, columns=['csv_list'])
         df['downloaded'] = False
-        df.reset_index(inplace=True)
+        # df.reset_index(inplace=True)
         
         # saving the dataframe as csv
-        df.to_csv(csv_list_dir, index=False)
+        df.to_csv(csv_list_dir, index=True)
+       
+ 
+def update_csv_list():
+    """ updaing the csv_list csv file with the newly downloaded species
+        Note: The file is being read again here to ensure that we are pulling the most recent version
+        in case another instance has already modified it during the download process for this instance."""
         
+    df_csv_list = pd.read_csv(csv_list_dir, index_col=0)
+    df_csv_list.loc[args.start_index:args.end_index, 'downloaded'] = True
+    df_csv_list.to_csv(csv_list_dir, index=True)  
+
 
 def checking_conditions(number_of_csvs=0):
     """ checking the conditions for downloading the images """
@@ -46,22 +59,15 @@ def checking_conditions(number_of_csvs=0):
     assert args.end_index >= 0  , 'end index can not be negative'
     
     
-def updating_csv_list_table():
-    """ updaing the csv_list csv file with the newly downloaded species
-        Note: The file is being read again here to ensure that we are pulling the most recent version
-        in case another instance has already modified it during the download process for this instance."""
-    
-    df_csv_list = pd.read_csv(csv_list_dir, index_col='index')
-    df_csv_list.loc[args.start_index:args.end_index, 'downloaded'] = True
-    df_csv_list.to_csv(csv_list_dir, index=False)     
+   
       
 
-def main():
+def main(start_index=0, end_index=10, data_dir='../data', force_rewrite_csv_list=False):
     
     # reading the list of all csv files
     save_csv_list()
     
-    df_csv_list = pd.read_csv(csv_list_dir, index_col='index')
+    df_csv_list = pd.read_csv(csv_list_dir, index_col=0)
     
     checking_conditions(number_of_csvs=df_csv_list.shape[0])
     
@@ -97,11 +103,11 @@ def main():
         
     tar.close()
     
-    updating_csv_list_table()
+    update_csv_list()
     
     return tar_name
     
 
     
 if __name__ == '__main__':
-    tar_name = main()
+    tar_name = main(start_index=args.start_index, end_index=args.end_index, data_dir=args.data_dir, force_rewrite_csv_list=args.force_rewrite_csv_list)
