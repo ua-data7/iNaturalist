@@ -4,23 +4,22 @@ import pandas as pd
 from glob import glob
 from tqdm import tqdm
 import tarfile
-import shutil
 import argparse
-import sqlite3
-
+import os
+import shutil
 
 # getting the start and end index for csv files
 parser = argparse.ArgumentParser('reading the start and end index for csvs')
 parser.add_argument('--start_index', type=int, default=0)
-parser.add_argument('--end_index', type=int, default=10)
-parser.add_argument('--csvs_dir', type=str, default='species_csv')
+parser.add_argument('--end_index', type=int, default=2)
+parser.add_argument('--data_dir', type=str, default='/Users/personal-macbook/Documents/projects/inaturalist/data')
 parser.add_argument('--save_csv_list', type=bool, default=1)
 args = parser.parse_args()
 
-print(args.start_index, args.end_index, args.csvs_dir, args.save_csv_list)
+# print(args.start_index, args.end_index, args.data_dir, args.save_csv_list)
 
 # path that the csv_list.csv file will be stored in
-csv_list_dir = 'csv_list.csv'
+csv_list_dir = f'{args.data_dir}/csv_list.csv'
 
 
 def save_csv_list():
@@ -29,7 +28,7 @@ def save_csv_list():
     if args.save_csv_list: 
         
         # listing all csv files in the csv directory
-        csv_list = glob(f'{args.csvs_dir}/*.csv')
+        csv_list = glob(f'{args.data_dir}/species_csv/*.csv')
         
         # converting the list to pandas dataframe
         df = pd.DataFrame(csv_list, columns=['csv_list'])
@@ -77,7 +76,7 @@ def main():
     
     # creating the tar file that will contain all downloades from this instance
     tar_name = f'{args.start_index}_{args.end_index}.tar.gz'
-    tar = tarfile.open(tar_name, "w:gz")
+    tar = tarfile.open(f'{os.path.abspath(args.data_dir)}/{tar_name}', "w:gz")
 
     # looping through all csv files that fell into the range of start and end index
     for i in tqdm(df_csv_list.loc[args.start_index:args.end_index, 'csv_list']):
@@ -86,7 +85,7 @@ def main():
         df = pd.read_csv(i)
         
         # the output_folder is the taxonomy hierachy of that specie. This code assumes it will be the same for all images inside this csv
-        output_folder = df.loc[0,'ancestry']
+        output_folder = f"{args.data_dir}/{df.loc[0,'ancestry']}"
         img2dataset.download(processes_count=16,
                             thread_count=32,
                             url_list=i,
@@ -99,7 +98,11 @@ def main():
                             resize_mode='no')
         
         # adding the newly downloaded images of a purticular specie to tar file
-        tar.add(output_folder)
+        tar.add(os.path.abspath(output_folder), arcname=df.loc[0,'ancestry'])
+        
+        # removing the previously not-compressed downloaded images
+        parent_dir = df.loc[0,'ancestry'].split('/')[0]
+        shutil.rmtree(f'{args.data_dir}/{parent_dir}')
         
         # upading the sql table
         # sqliteConnection.cursor.execute(f'UPDATE csv_list_table SET downloaded = 1 WHERE index = "{i}"')
@@ -107,7 +110,7 @@ def main():
     tar.close()
     
     updating_csv_list_table()
-        
+    
     # Closing teh sql connection
     # sqliteConnection.commit()
     # sqliteConnection.close()
