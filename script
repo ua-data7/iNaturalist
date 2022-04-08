@@ -1,0 +1,19 @@
+#!/bin/bash
+
+read -t 0
+
+# $1 = csv_file_name
+
+# img2dataset --url_list=$1\.csv --resize_mode=0 --input_format=csv --url_col=photo_url_large --output_folder=$1 --output_format=webdataset --number_sample_per_shard=100000
+
+
+tar -cvzf $1.tar $1
+
+export ds_dir="/iplant/home/shared/soynomics/inaturalist/downloaded_data/"
+
+iput -f ${1}.tar ${ds_dir}/
+
+rm -r $1
+rm -r $1\.tar
+
+
