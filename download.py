@@ -15,12 +15,13 @@ import shutil
 parser = argparse.ArgumentParser('reading the start and end index for csvs')
 parser.add_argument('--start_index', type=int, default=0)
 parser.add_argument('--end_index', type=int, default=2)
-parser.add_argument('--data_dir', type=str, default='/Users/personal-macbook/Documents/projects/inaturalist/data')
+parser.add_argument('--data_dir', type=str, default='/dev/shm/inaturalist/data')
 parser.add_argument('--force_rewrite_csv_list', type=bool, default=0)
 args = parser.parse_args()
 
 # path that the csv_list.csv file will be stored in
-csv_list_dir = f'{args.data_dir}/csv_list.csv'
+# csv_list_dir = f'{args.data_dir}/csv_list.csv'
+csv_list_dir = '/home/u29/mohammadsmajdi/projects/inaturalist/data/csv_list.csv'
 
 
 def save_csv_list():
@@ -33,8 +34,8 @@ def save_csv_list():
         
         # converting the list to pandas dataframe
         df = pd.DataFrame(csv_list, columns=['csv_list'])
+        df.csv_list = df.csv_list.map(lambda x: x.replace(f'{args.data_dir}/species_csv/',''))
         df['downloaded'] = False
-        # df.reset_index(inplace=True)
         
         # saving the dataframe as csv
         df.to_csv(csv_list_dir, index=True)
@@ -62,7 +63,7 @@ def checking_conditions(number_of_csvs=0):
    
       
 
-def main(start_index=0, end_index=10, data_dir='../data', force_rewrite_csv_list=False):
+def main(start_index=0, end_index=10, data_dir='../data/species_csv/', force_rewrite_csv_list=False):
     
     # reading the list of all csv files
     save_csv_list()
@@ -77,15 +78,17 @@ def main(start_index=0, end_index=10, data_dir='../data', force_rewrite_csv_list
 
     # looping through all csv files that fell into the range of start and end index
     for i in tqdm(df_csv_list.loc[args.start_index:args.end_index, 'csv_list']):
-        
-        # reading the csv file for specie corresponding to index i
-        df = pd.read_csv(i)
+              
+        # reading the csv belonging to one specie corresponding to index i of csv_list.csv file
+        csv_dir = f'{args.data_dir}/species_csv/{i}'
+        df = pd.read_csv(csv_dir)
         
         # the output_folder is the taxonomy hierachy of that specie. This code assumes it will be the same for all images inside this csv
         output_folder = f"{args.data_dir}/{df.loc[0,'ancestry']}"
+        
         img2dataset.download(processes_count=16,
                             thread_count=32,
-                            url_list=i,
+                            url_list=csv_dir,
                             output_folder=output_folder,
                             output_format='webdataset',
                             input_format='csv',
@@ -106,8 +109,6 @@ def main(start_index=0, end_index=10, data_dir='../data', force_rewrite_csv_list
     update_csv_list()
     
     return tar_name
-    
 
-    
 if __name__ == '__main__':
     tar_name = main(start_index=args.start_index, end_index=args.end_index, data_dir=args.data_dir, force_rewrite_csv_list=args.force_rewrite_csv_list)
