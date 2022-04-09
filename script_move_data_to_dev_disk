@@ -4,9 +4,14 @@ export source_dir="/home/u29/mohammadsmajdi/projects/inaturalist/data/species_cs
 export dest_dir="/dev/shm/inaturalist"
 
 mkdir $dest_dir
-cp $source_dir $dest_dir
+
+cp $source_dir $dest_dir/
+
 cd $dest_dir
 
-unzip $dest_dir/species_csv.zip .
+unzip $dest_dir/species_csv.zip 
+
 mv Species_Csv species_csv
+rm -r __MACOSX
+
 
