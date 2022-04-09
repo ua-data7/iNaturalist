@@ -12,6 +12,6 @@ export local_dir="${3}/$1_$2.tar.gz"
 
 iput -f $local_dir $ds_dir
 
-# rm -rf $local_dir
+rm -rf $local_dir
 
 

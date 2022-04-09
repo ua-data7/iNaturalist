@@ -16,7 +16,7 @@ parser = argparse.ArgumentParser('reading the start and end index for csvs')
 parser.add_argument('--start_index', type=int, default=0)
 parser.add_argument('--end_index', type=int, default=2)
 parser.add_argument('--data_dir', type=str, default='/dev/shm/inaturalist')
-parser.add_argument('--force_rewrite_csv_list', type=bool, default=0)
+parser.add_argument('--force_rewrite_csv_list', type=bool, default=1)
 args = parser.parse_args()
 
 # path that the csv_list.csv file will be stored in
@@ -63,7 +63,7 @@ def checking_conditions(number_of_csvs=0):
    
       
 
-def main(start_index=0, end_index=10, data_dir='../data/species_csv/', force_rewrite_csv_list=False):
+def main(start_index=0, end_index=10, data_dir='', force_rewrite_csv_list=False):
     
     # reading the list of all csv files
     save_csv_list()

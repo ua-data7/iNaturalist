@@ -1,0 +1,12 @@
+#!/bin/bash
+
+export source_dir="/home/u29/mohammadsmajdi/projects/inaturalist/data/species_csv.zip"
+export dest_dir="/dev/shm/inaturalist"
+
+mkdir $dest_dir
+cp $source_dir $dest_dir
+cd $dest_dir
+
+unzip $dest_dir/species_csv.zip .
+mv Species_Csv species_csv
+
