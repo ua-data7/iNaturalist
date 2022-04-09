@@ -41,13 +41,13 @@ def save_csv_list():
         df.to_csv(csv_list_dir, index=True)
        
  
-def update_csv_list():
+def update_csv_list(index_list: list):
     """ updaing the csv_list csv file with the newly downloaded species
         Note: The file is being read again here to ensure that we are pulling the most recent version
         in case another instance has already modified it during the download process for this instance."""
         
     df_csv_list = pd.read_csv(csv_list_dir, index_col=0)
-    df_csv_list.loc[args.start_index:args.end_index, 'downloaded'] = True
+    df_csv_list.loc[index_list, 'downloaded'] = True
     df_csv_list.to_csv(csv_list_dir, index=True)  
 
 
@@ -77,36 +77,42 @@ def main(start_index=0, end_index=10, data_dir='', force_rewrite_csv_list=False)
     tar = tarfile.open(f'{os.path.abspath(args.data_dir)}/{tar_name}', "w:gz")
 
     # looping through all csv files that fell into the range of start and end index
-    for i in tqdm(df_csv_list.loc[args.start_index:args.end_index, 'csv_list']):
+    index_list = list(range(args.start_index,args.end_index+1))
+    
+    for i in tqdm(df_csv_list.loc[index_list, 'csv_list']):
               
-        # reading the csv belonging to one specie corresponding to index i of csv_list.csv file
-        csv_dir = f'{args.data_dir}/species_csv/{i}'
-        df = pd.read_csv(csv_dir)
+        try:
+            # reading the csv belonging to one specie corresponding to index i of csv_list.csv file
+            csv_dir = f'{args.data_dir}/species_csv/{i}'
+            df = pd.read_csv(csv_dir)
+            
+            # the output_folder is the taxonomy hierachy of that specie. This code assumes it will be the same for all images inside this csv
+            output_folder = f"{args.data_dir}/{df.loc[0,'ancestry']}"
+            
+            img2dataset.download(processes_count=16,
+                                thread_count=32,
+                                url_list=csv_dir,
+                                output_folder=output_folder,
+                                output_format='webdataset',
+                                input_format='csv',
+                                url_col='photo_url_large',
+                                number_sample_per_shard=200000,
+                                distributor='multiprocessing',
+                                resize_mode='no')
+            
+            # adding the newly downloaded images of a purticular specie to tar file
+            tar.add(os.path.abspath(output_folder), arcname=df.loc[0,'ancestry'])
+            
+            # removing the previously not-compressed downloaded images
+            parent_dir = df.loc[0,'ancestry'].split('/')[0]
+            shutil.rmtree(f'{args.data_dir}/{parent_dir}')
         
-        # the output_folder is the taxonomy hierachy of that specie. This code assumes it will be the same for all images inside this csv
-        output_folder = f"{args.data_dir}/{df.loc[0,'ancestry']}"
-        
-        img2dataset.download(processes_count=16,
-                            thread_count=32,
-                            url_list=csv_dir,
-                            output_folder=output_folder,
-                            output_format='webdataset',
-                            input_format='csv',
-                            url_col='photo_url_large',
-                            number_sample_per_shard=200000,
-                            distributor='multiprocessing',
-                            resize_mode='no')
-        
-        # adding the newly downloaded images of a purticular specie to tar file
-        tar.add(os.path.abspath(output_folder), arcname=df.loc[0,'ancestry'])
-        
-        # removing the previously not-compressed downloaded images
-        parent_dir = df.loc[0,'ancestry'].split('/')[0]
-        shutil.rmtree(f'{args.data_dir}/{parent_dir}')
+        except:
+            index_list.pop(i)
         
     tar.close()
     
-    update_csv_list()
+    update_csv_list(index_list)
     
     return tar_name
 
