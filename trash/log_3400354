@@ -1,0 +1,1644 @@
+
+
+ ### progress=0% <=> csv-index-range=[400:499]  ### 
+
+enter start_index end_index and data_dir respectively
+  0%|          | 0/100 [00:00<?, ?it/s]Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.38s/it][A1it [00:02,  2.38s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+  1%|          | 1/100 [00:02<04:42,  2.85s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Potamanaxas melicertes.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.57s/it][A1it [00:02,  2.57s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+  2%|▏         | 2/100 [00:05<04:46,  2.92s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Lophocnema eusphyra.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.72s/it][A1it [00:02,  2.72s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 9 - count: 5
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 9 - count: 5
+  3%|▎         | 3/100 [00:08<04:53,  3.02s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Eilema ratonis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.12s/it][A1it [00:03,  3.12s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 14 - count: 8
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 14 - count: 8
+  4%|▍         | 4/100 [00:12<05:11,  3.25s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Velia saulii.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:05,  5.09s/it][A1it [00:05,  5.09s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 43 - count: 131
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 43 - count: 131
+  5%|▌         | 5/100 [00:19<06:57,  4.40s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Coelophora biplagiata.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.16s/it][A1it [00:03,  3.16s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 7 - count: 4
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 7 - count: 4
+  6%|▌         | 6/100 [00:22<06:31,  4.17s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Ceriana australis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.49s/it][A1it [00:03,  3.49s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 15 - count: 9
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 15 - count: 9
+  7%|▋         | 7/100 [00:26<06:20,  4.09s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Torymus bedeguaris.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.39s/it][A1it [00:02,  2.39s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 5 - count: 2
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 5 - count: 2
+  8%|▊         | 8/100 [00:29<05:38,  3.68s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Paraclytus excultus.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.94s/it][A1it [00:03,  3.94s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 31 - count: 58
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 31 - count: 58
+  9%|▉         | 9/100 [00:34<06:07,  4.03s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Leptura ochraceofasciata.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.80s/it][A1it [00:02,  2.80s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 21 - count: 12
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 21 - count: 12
+ 10%|█         | 10/100 [00:37<05:43,  3.82s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Microctenochira punicea.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.10s/it][A1it [00:03,  3.10s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 5 - count: 2
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 5 - count: 2
+ 11%|█         | 11/100 [00:41<05:32,  3.74s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Pseudoswammerdamia combinella.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.48s/it][A1it [00:02,  2.48s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 12 - count: 7
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 12 - count: 7
+ 12%|█▏        | 12/100 [00:44<05:07,  3.50s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Autochloris jansonis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.07s/it][A1it [00:03,  3.07s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 32 - count: 34
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 32 - count: 34
+ 13%|█▎        | 13/100 [00:47<05:10,  3.57s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Spilarctia bisecta.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:05,  5.52s/it][A1it [00:05,  5.52s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 36 - count: 120
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 36 - count: 120
+ 14%|█▍        | 14/100 [00:54<06:31,  4.55s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Crematogaster cerasi.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.56s/it][A1it [00:03,  3.56s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+ 15%|█▌        | 15/100 [00:58<06:13,  4.40s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Brabira atkinsonii.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.37s/it][A1it [00:03,  3.37s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 18 - count: 22
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 18 - count: 22
+ 16%|█▌        | 16/100 [01:02<05:55,  4.23s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Ranatra nigra.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.83s/it][A1it [00:02,  2.83s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 3 - count: 2
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 3 - count: 2
+ 17%|█▋        | 17/100 [01:05<05:27,  3.94s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Herdonia thielei.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.53s/it][A1it [00:02,  2.53s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 17 - count: 12
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 17 - count: 12
+ 18%|█▊        | 18/100 [01:08<05:01,  3.68s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Lasioglossum mediopolitum.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.42s/it][A1it [00:03,  3.42s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+ 19%|█▉        | 19/100 [01:12<05:03,  3.74s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Dinocoris maculatus.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.82s/it][A1it [00:02,  2.82s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 28 - count: 20
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 28 - count: 20
+ 20%|██        | 20/100 [01:16<04:50,  3.63s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Thecesternus maculosus.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.68s/it][A1it [00:02,  2.68s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+ 21%|██        | 21/100 [01:19<04:35,  3.49s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Agrianome loriae.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.60s/it][A1it [00:02,  2.60s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 8 - count: 5
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 8 - count: 5
+ 22%|██▏       | 22/100 [01:22<04:20,  3.34s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Brachydeutera sturtevanti.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.79s/it][A1it [00:03,  3.79s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 28 - count: 31
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 28 - count: 31
+ 23%|██▎       | 23/100 [01:26<04:43,  3.68s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Cacographis osteolalis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.34s/it][A1it [00:02,  2.34s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+ 24%|██▍       | 24/100 [01:29<04:20,  3.42s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Cymatodera inornata.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.73s/it][A1it [00:02,  2.73s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+ 25%|██▌       | 25/100 [01:32<04:09,  3.33s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Staleochlora arcuata.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.65s/it][A1it [00:02,  2.65s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 27 - count: 22
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 27 - count: 22
+ 26%|██▌       | 26/100 [01:35<04:05,  3.32s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Pseudomallada ventralis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.10s/it][A1it [00:03,  3.10s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 5 - count: 3
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 5 - count: 3
+ 27%|██▋       | 27/100 [01:39<04:10,  3.43s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Rhynchalastor xanthomelas.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.57s/it][A1it [00:02,  2.57s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 18 - count: 13
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 18 - count: 13
+ 28%|██▊       | 28/100 [01:42<04:00,  3.34s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Sartallus signatus.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.93s/it][A1it [00:02,  2.93s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 20 - count: 15
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 20 - count: 15
+ 29%|██▉       | 29/100 [01:46<04:00,  3.39s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Euphaea cardinalis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.41s/it][A1it [00:02,  2.41s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 7 - count: 4
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 7 - count: 4
+ 30%|███       | 30/100 [01:49<03:46,  3.23s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Oecetis cinerascens.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.28s/it][A1it [00:03,  3.28s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 8 - count: 5
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 8 - count: 5
+ 31%|███       | 31/100 [01:53<03:55,  3.41s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Syrmoptera melanomitra.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:08,  8.17s/it][A1it [00:08,  8.17s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 44 - count: 277
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 44 - count: 277
+ 32%|███▏      | 32/100 [02:03<06:21,  5.61s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Arocatus rusticus.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.76s/it][A1it [00:03,  3.76s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 8 - count: 4
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 8 - count: 4
+ 33%|███▎      | 33/100 [02:07<05:47,  5.19s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Dyomyx psectrocera.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.39s/it][A1it [00:02,  2.39s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 10 - count: 6
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 10 - count: 6
+ 34%|███▍      | 34/100 [02:10<04:55,  4.48s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Pyrrhidivalva sordida.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.79s/it][A1it [00:02,  2.79s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+ 35%|███▌      | 35/100 [02:14<04:27,  4.11s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Xestia fuscostigma.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.20s/it][A1it [00:03,  3.20s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 29 - count: 30
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 29 - count: 30
+ 36%|███▌      | 36/100 [02:18<04:20,  4.07s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Bagisara oula.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.25s/it][A1it [00:03,  3.25s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+ 37%|███▋      | 37/100 [02:21<04:09,  3.96s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Agonum nigriceps.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.31s/it][A1it [00:02,  2.31s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 6 - count: 3
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 6 - count: 3
+ 38%|███▊      | 38/100 [02:24<03:44,  3.62s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Megachile texensis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.91s/it][A1it [00:02,  2.91s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 63 - count: 72
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 63 - count: 72
+ 39%|███▉      | 39/100 [02:28<03:41,  3.63s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Zerynthia cretica.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:07,  7.91s/it][A1it [00:07,  7.91s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 14 - count: 81
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 14 - count: 81
+ 40%|████      | 40/100 [02:37<05:16,  5.28s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Phimenes curvatus.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.37s/it][A1it [00:03,  3.38s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 14 - count: 8
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 14 - count: 8
+ 41%|████      | 41/100 [02:41<04:47,  4.87s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Drepanogynis intricata.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.43s/it][A1it [00:02,  2.43s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 9 - count: 5
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 9 - count: 5
+ 42%|████▏     | 42/100 [02:44<04:09,  4.30s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Nychioptera accola.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.30s/it][A1it [00:02,  2.30s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 5 - count: 3
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 5 - count: 3
+ 43%|████▎     | 43/100 [02:47<03:39,  3.85s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Pepsis assimilis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:04,  4.16s/it][A1it [00:04,  4.16s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 41 - count: 95
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 41 - count: 95
+ 44%|████▍     | 44/100 [02:52<03:56,  4.23s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Epuraea aestiva.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.49s/it][A1it [00:03,  3.49s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 23 - count: 17
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 23 - count: 17
+ 45%|████▌     | 45/100 [02:56<03:49,  4.18s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Egidemia inflata.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:15, 15.39s/it][A1it [00:15, 15.39s/it]
+worker  - success: 0.997 - failed to download: 0.000 - failed to resize: 0.003 - images per sec: 42 - count: 574
+total   - success: 0.997 - failed to download: 0.000 - failed to resize: 0.003 - images per sec: 42 - count: 574
+ 46%|████▌     | 46/100 [03:17<08:18,  9.24s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Tolmerus atricapillus.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:04,  4.40s/it][A1it [00:04,  4.41s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+ 47%|████▋     | 47/100 [03:22<06:59,  7.91s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Dichomeris barnesiella.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.43s/it][A1it [00:02,  2.43s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 12 - count: 7
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 12 - count: 7
+ 48%|████▊     | 48/100 [03:24<05:33,  6.41s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Exoprosopa fumosa.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.35s/it][A1it [00:02,  2.35s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+ 49%|████▉     | 49/100 [03:27<04:31,  5.32s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Erotylus olivieri.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.56s/it][A1it [00:02,  2.56s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 3 - count: 2
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 3 - count: 2
+ 50%|█████     | 50/100 [03:30<03:51,  4.63s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Antiblemma phoenicopyra.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:07,  7.37s/it][A1it [00:07,  7.37s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 26 - count: 146
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 26 - count: 146
+ 51%|█████     | 51/100 [03:39<04:47,  5.87s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Tramea stenoloba.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.27s/it][A1it [00:02,  2.27s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+ 52%|█████▏    | 52/100 [03:42<03:56,  4.93s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Talaurinus semispinosus.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:05,  5.33s/it][A1it [00:05,  5.33s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 39 - count: 101
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 39 - count: 101
+ 53%|█████▎    | 53/100 [03:48<04:14,  5.42s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Parapalaeosepsis plebeia.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.46s/it][A1it [00:02,  2.46s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 10 - count: 5
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 10 - count: 5
+ 54%|█████▍    | 54/100 [03:51<03:35,  4.67s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Anisoscelis discolor.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:12, 12.18s/it][A1it [00:12, 12.18s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 42 - count: 436
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 42 - count: 436
+ 55%|█████▌    | 55/100 [04:08<06:16,  8.36s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Biston strataria.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.50s/it][A1it [00:03,  3.50s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 8 - count: 4
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 8 - count: 4
+ 56%|█████▌    | 56/100 [04:12<05:09,  7.04s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Polydrusus corruscus.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.74s/it][A1it [00:03,  3.74s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 36 - count: 64
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 36 - count: 64
+ 57%|█████▋    | 57/100 [04:17<04:32,  6.34s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Cethosia penthesilea.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.80s/it][A1it [00:02,  2.80s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 6 - count: 3
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 6 - count: 3
+ 58%|█████▊    | 58/100 [04:20<03:47,  5.42s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Gonioctena gobanzi.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.40s/it][A1it [00:03,  3.40s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 27 - count: 22
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 27 - count: 22
+ 59%|█████▉    | 59/100 [04:24<03:25,  5.00s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Ceratapion onopordi.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.69s/it][A1it [00:02,  2.69s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 16 - count: 14
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 16 - count: 14
+ 60%|██████    | 60/100 [04:27<02:58,  4.47s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Emesis ocypore.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.40s/it][A1it [00:02,  2.40s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+ 61%|██████    | 61/100 [04:30<02:35,  3.98s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Eutagenia minutissima.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.56s/it][A1it [00:02,  2.56s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 11 - count: 7
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 11 - count: 7
+ 62%|██████▏   | 62/100 [04:33<02:20,  3.70s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Dasymutilla melancholica.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.45s/it][A1it [00:03,  3.45s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 5 - count: 3
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 5 - count: 3
+ 63%|██████▎   | 63/100 [04:37<02:19,  3.77s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Leucochrysa explorata.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.73s/it][A1it [00:02,  2.73s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 24 - count: 20
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 24 - count: 20
+ 64%|██████▍   | 64/100 [04:41<02:11,  3.64s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Chrysolarentia cryeropa.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.32s/it][A1it [00:02,  2.32s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+ 65%|██████▌   | 65/100 [04:43<01:58,  3.39s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Thanasimus femoralis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.15s/it][A1it [00:02,  2.15s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 3 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 3 - count: 1
+ 66%|██████▌   | 66/100 [04:46<01:47,  3.16s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Sphaeropsocus bicolor.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.39s/it][A1it [00:02,  2.40s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+ 67%|██████▋   | 67/100 [04:49<01:40,  3.06s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Maneca bhotea.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.48s/it][A1it [00:02,  2.48s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 6 - count: 3
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 6 - count: 3
+ 68%|██████▊   | 68/100 [04:52<01:36,  3.02s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Idionotus tehachapi.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:05,  5.10s/it][A1it [00:05,  5.10s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 41 - count: 136
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 41 - count: 136
+ 69%|██████▉   | 69/100 [04:58<02:08,  4.13s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Acleris celiana.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:04,  4.06s/it][A1it [00:04,  4.06s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 40 - count: 55
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 40 - count: 55
+ 70%|███████   | 70/100 [05:03<02:11,  4.38s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Platyphora congregata.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.39s/it][A1it [00:02,  2.39s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 8 - count: 4
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 8 - count: 4
+ 71%|███████   | 71/100 [05:06<01:53,  3.92s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Castiarina jubata.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.38s/it][A1it [00:02,  2.38s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+ 72%|███████▏  | 72/100 [05:09<01:40,  3.59s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Schreiteriana pectinicornis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.50s/it][A1it [00:03,  3.50s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 35 - count: 60
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 35 - count: 60
+ 73%|███████▎  | 73/100 [05:13<01:43,  3.83s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Ponometia clausula.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.37s/it][A1it [00:02,  2.37s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+ 74%|███████▍  | 74/100 [05:16<01:32,  3.54s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Asiola blasio.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.43s/it][A1it [00:02,  2.43s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 16 - count: 8
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 16 - count: 8
+ 75%|███████▌  | 75/100 [05:19<01:23,  3.36s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Moerarchis pyrochroa.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.89s/it][A1it [00:02,  2.89s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 16 - count: 10
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 16 - count: 10
+ 76%|███████▌  | 76/100 [05:23<01:21,  3.38s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Olethreutes coruscana.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:04,  4.04s/it][A1it [00:04,  4.04s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 8 - count: 4
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 8 - count: 4
+ 77%|███████▋  | 77/100 [05:27<01:25,  3.72s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Xylocopa caribea.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.35s/it][A1it [00:02,  2.35s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+ 78%|███████▊  | 78/100 [05:30<01:15,  3.44s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Eloeophila maculata.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.34s/it][A1it [00:03,  3.34s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 7 - count: 9
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 7 - count: 9
+ 79%|███████▉  | 79/100 [05:34<01:14,  3.57s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Cacopsylla magnicauda.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.31s/it][A1it [00:02,  2.31s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+ 80%|████████  | 80/100 [05:37<01:06,  3.32s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Hydaticus continentalis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:06,  6.21s/it][A1it [00:06,  6.21s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 39 - count: 169
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 39 - count: 169
+ 81%|████████  | 81/100 [05:45<01:32,  4.84s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Enaphalodes hispicornis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.25s/it][A1it [00:02,  2.25s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 9 - count: 4
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 9 - count: 4
+ 82%|████████▏ | 82/100 [05:48<01:15,  4.22s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Chilocorus maculatus.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.48s/it][A1it [00:03,  3.48s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 19 - count: 14
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 19 - count: 14
+ 83%|████████▎ | 83/100 [05:52<01:10,  4.17s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Ariconias albinus.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.64s/it][A1it [00:02,  2.64s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 22 - count: 17
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 22 - count: 17
+ 84%|████████▍ | 84/100 [05:55<01:01,  3.87s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Leptomyrmex nigriceps.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.54s/it][A1it [00:02,  2.54s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 21 - count: 14
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 21 - count: 14
+ 85%|████████▌ | 85/100 [05:58<00:54,  3.64s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Dionconotus confluens.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.35s/it][A1it [00:03,  3.35s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 39 - count: 58
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 39 - count: 58
+ 86%|████████▌ | 86/100 [06:02<00:53,  3.80s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Epeolus olympiellus.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.99s/it][A1it [00:02,  2.99s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 29 - count: 34
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 29 - count: 34
+ 87%|████████▋ | 87/100 [06:06<00:49,  3.80s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Caripeta pulcherrima.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:06,  6.20s/it][A1it [00:06,  6.20s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 42 - count: 181
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 42 - count: 181
+ 88%|████████▊ | 88/100 [06:14<01:00,  5.05s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Harpobittacus australis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.43s/it][A1it [00:03,  3.43s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 7 - count: 4
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 7 - count: 4
+ 89%|████████▉ | 89/100 [06:18<00:51,  4.70s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Marumba maackii.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:05,  5.48s/it][A1it [00:05,  5.48s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 47 - count: 168
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 47 - count: 168
+ 90%|█████████ | 90/100 [06:25<00:53,  5.36s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Trichomyrmex destructor.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.95s/it][A1it [00:03,  3.95s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 29 - count: 27
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 29 - count: 27
+ 91%|█████████ | 91/100 [06:30<00:46,  5.16s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Platyphasia wilsoni.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.52s/it][A1it [00:02,  2.52s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 25 - count: 16
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 25 - count: 16
+ 92%|█████████▏| 92/100 [06:33<00:36,  4.51s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Schoenomyza litorella.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.28s/it][A1it [00:02,  2.28s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+ 93%|█████████▎| 93/100 [06:35<00:27,  3.98s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Brevianta hyas.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.42s/it][A1it [00:02,  2.42s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 7 - count: 4
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 7 - count: 4
+ 94%|█████████▍| 94/100 [06:38<00:21,  3.66s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Rhytiphora affinis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.48s/it][A1it [00:03,  3.48s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 36 - count: 39
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 36 - count: 39
+ 95%|█████████▌| 95/100 [06:42<00:19,  3.82s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Agrypnus binodulus.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.87s/it][A1it [00:02,  2.87s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+ 96%|█████████▌| 96/100 [06:46<00:14,  3.66s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Cozola subrana.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.32s/it][A1it [00:02,  2.32s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 6 - count: 3
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 6 - count: 3
+ 97%|█████████▋| 97/100 [06:48<00:10,  3.39s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Carpatolechia belangerella.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:20, 20.04s/it][A1it [00:20, 20.04s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 46 - count: 843
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 46 - count: 843
+ 98%|█████████▊| 98/100 [07:15<00:20, 10.50s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Pyrausta orphisalis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.54s/it][A1it [00:02,  2.54s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 9 - count: 5
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 9 - count: 5
+ 99%|█████████▉| 99/100 [07:19<00:08,  8.27s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Messatoporus rufiventris.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.36s/it][A1it [00:02,  2.36s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+100%|██████████| 100/100 [07:21<00:00,  6.65s/it]100%|██████████| 100/100 [07:21<00:00,  4.42s/it]
+Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Disonycha plagifera.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+
+
+ ### progress=1% <=> csv-index-range=[500:599]  ### 
+
+enter start_index end_index and data_dir respectively
+  0%|          | 0/100 [00:00<?, ?it/s]Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.53s/it][A1it [00:02,  2.53s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 18 - count: 12
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 18 - count: 12
+  1%|          | 1/100 [00:03<05:06,  3.09s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Laccophilus horni.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.39s/it][A1it [00:02,  2.39s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 14 - count: 8
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 14 - count: 8
+  2%|▏         | 2/100 [00:05<04:51,  2.97s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Baeotis kadenii.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.74s/it][A1it [00:02,  2.74s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 25 - count: 21
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 25 - count: 21
+  3%|▎         | 3/100 [00:09<05:04,  3.14s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Aeneolamia contigua.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.35s/it][A1it [00:02,  2.36s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+  4%|▍         | 4/100 [00:12<04:48,  3.01s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Largus morio.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.40s/it][A1it [00:02,  2.40s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 5 - count: 3
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 5 - count: 3
+  5%|▌         | 5/100 [00:15<04:42,  2.97s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Pseudopalpares sparsus.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.22s/it][A1it [00:03,  3.22s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 32 - count: 47
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 32 - count: 47
+  6%|▌         | 6/100 [00:18<05:09,  3.30s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Forficula lesnei.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [05:44, 344.55s/it][A1it [05:44, 344.55s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 46 - count: 15688
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 46 - count: 15688
+  7%|▋         | 7/100 [08:13<4:03:40, 157.21s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Atalopedes campestris.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:05,  5.68s/it][A1it [00:05,  5.68s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 15 - count: 13
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 15 - count: 13
+  8%|▊         | 8/100 [08:19<2:47:23, 109.17s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Meton tropicus.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.45s/it][A1it [00:02,  2.46s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 11 - count: 7
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 11 - count: 7
+  9%|▉         | 9/100 [08:22<1:55:13, 75.97s/it] Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Rhagium caucasicum.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.34s/it][A1it [00:02,  2.34s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+ 10%|█         | 10/100 [08:25<1:20:03, 53.38s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Diploptera parva.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.28s/it][A1it [00:02,  2.28s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 6 - count: 3
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 6 - count: 3
+ 11%|█         | 11/100 [08:27<56:12, 37.89s/it]  Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Glenea diana.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.38s/it][A1it [00:02,  2.38s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+ 12%|█▏        | 12/100 [08:30<39:55, 27.22s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Acanthosoma forfex.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.86s/it][A1it [00:02,  2.86s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 28 - count: 28
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 28 - count: 28
+ 13%|█▎        | 13/100 [08:34<29:09, 20.11s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Trichocurgus nitidiventris.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.52s/it][A1it [00:02,  2.52s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 25 - count: 19
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 25 - count: 19
+ 14%|█▍        | 14/100 [08:37<21:26, 14.96s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Zulpha perlaria.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.28s/it][A1it [00:02,  2.29s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 6 - count: 3
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 6 - count: 3
+ 15%|█▌        | 15/100 [08:40<16:01, 11.31s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Procalus viridis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.23s/it][A1it [00:02,  2.23s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+ 16%|█▌        | 16/100 [08:43<12:11,  8.71s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Platysoma angustatum.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.57s/it][A1it [00:02,  2.57s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 16 - count: 11
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 16 - count: 11
+ 17%|█▋        | 17/100 [08:46<09:41,  7.01s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Xanthorhoe strumosata.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.31s/it][A1it [00:02,  2.31s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+ 18%|█▊        | 18/100 [08:48<07:50,  5.74s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Idiostatus magnificus.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.57s/it][A1it [00:02,  2.57s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 26 - count: 19
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 26 - count: 19
+ 19%|█▉        | 19/100 [08:52<06:41,  4.96s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Symplecta cana.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.45s/it][A1it [00:02,  2.46s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 14 - count: 9
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 14 - count: 9
+ 20%|██        | 20/100 [08:54<05:47,  4.35s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Lecontia discicollis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.73s/it][A1it [00:02,  2.73s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 24 - count: 22
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 24 - count: 22
+ 21%|██        | 21/100 [08:58<05:19,  4.05s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Meterana vitiosa.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.39s/it][A1it [00:02,  2.39s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 9 - count: 5
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 9 - count: 5
+ 22%|██▏       | 22/100 [09:01<04:49,  3.71s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Paraepermenia santaliella.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.56s/it][A1it [00:02,  2.56s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 24 - count: 18
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 24 - count: 18
+ 23%|██▎       | 23/100 [09:04<04:32,  3.54s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Stropis nigrovitellina.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.23s/it][A1it [00:02,  2.23s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+ 24%|██▍       | 24/100 [09:07<04:10,  3.29s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Barisania lampra.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:11, 11.72s/it][A1it [00:11, 11.72s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 46 - count: 457
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 46 - count: 457
+ 25%|██▌       | 25/100 [09:23<08:54,  7.13s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Pseudocoremia leucelaea.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:04,  4.83s/it][A1it [00:04,  4.83s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 18 - count: 12
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 18 - count: 12
+ 26%|██▌       | 26/100 [09:28<08:08,  6.61s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Epeolus inornatus.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.40s/it][A1it [00:02,  2.40s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 12 - count: 8
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 12 - count: 8
+ 27%|██▋       | 27/100 [09:31<06:40,  5.48s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Cerotoma arcuata.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.49s/it][A1it [00:02,  2.49s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 7 - count: 4
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 7 - count: 4
+ 28%|██▊       | 28/100 [09:34<05:39,  4.71s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Platystoma lugubre.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.23s/it][A1it [00:02,  2.23s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 9 - count: 4
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 9 - count: 4
+ 29%|██▉       | 29/100 [09:36<04:50,  4.09s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Aiteta pratti.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:36, 36.43s/it][A1it [00:36, 36.43s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 46 - count: 1597
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 46 - count: 1597
+ 30%|███       | 30/100 [10:25<20:30, 17.58s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Leptophobia aripa.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:04,  4.64s/it][A1it [00:04,  4.64s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 12 - count: 8
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 12 - count: 8
+ 31%|███       | 31/100 [10:31<15:56, 13.86s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Lophocampa catenulata.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.46s/it][A1it [00:02,  2.46s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+ 32%|███▏      | 32/100 [10:34<11:58, 10.56s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Mesosa latifasciata.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.23s/it][A1it [00:02,  2.23s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 9 - count: 4
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 9 - count: 4
+ 33%|███▎      | 33/100 [10:36<09:09,  8.19s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Membracis obliquifasciata.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.41s/it][A1it [00:02,  2.41s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 15 - count: 9
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 15 - count: 9
+ 34%|███▍      | 34/100 [10:39<07:16,  6.62s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Protorthodes curtica.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:12, 12.34s/it][A1it [00:12, 12.34s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 32 - count: 330
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 32 - count: 330
+ 35%|███▌      | 35/100 [10:54<09:53,  9.13s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Adelphocoris seticornis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.43s/it][A1it [00:02,  2.43s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 7 - count: 4
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 7 - count: 4
+ 36%|███▌      | 36/100 [10:57<07:45,  7.27s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Labdia ceraunia.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:48, 48.79s/it][A1it [00:48, 48.79s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 46 - count: 2152
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 46 - count: 2152
+ 37%|███▋      | 37/100 [12:04<26:20, 25.09s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Battus polydamas.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:05,  5.02s/it][A1it [00:05,  5.02s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 22 - count: 20
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 22 - count: 20
+ 38%|███▊      | 38/100 [12:09<19:52, 19.24s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Acmaeodera degener.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.46s/it][A1it [00:02,  2.46s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+ 39%|███▉      | 39/100 [12:12<14:35, 14.36s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Disphragis discrepans.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.11s/it][A1it [00:03,  3.11s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 39 - count: 50
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 39 - count: 50
+ 40%|████      | 40/100 [12:16<11:14, 11.24s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Hemibela oxyptera.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:04,  4.80s/it][A1it [00:04,  4.80s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 41 - count: 120
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 41 - count: 120
+ 41%|████      | 41/100 [12:22<09:29,  9.66s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Chelostoma rapunculi.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.40s/it][A1it [00:02,  2.40s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+ 42%|████▏     | 42/100 [12:25<07:21,  7.61s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Eupolemus insularis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.35s/it][A1it [00:02,  2.35s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 6 - count: 3
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 6 - count: 3
+ 43%|████▎     | 43/100 [12:28<05:52,  6.18s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Phaulotettix compressus.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.25s/it][A1it [00:02,  2.25s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+ 44%|████▍     | 44/100 [12:31<04:47,  5.14s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Clastoptera elongata.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:04,  4.99s/it][A1it [00:04,  4.99s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 37 - count: 120
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 37 - count: 120
+ 45%|████▌     | 45/100 [12:37<05:10,  5.64s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Iphthiminus serratus.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.53s/it][A1it [00:02,  2.53s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 13 - count: 9
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 13 - count: 9
+ 46%|████▌     | 46/100 [12:41<04:23,  4.87s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Azygophleps leopardina.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.56s/it][A1it [00:02,  2.56s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 11 - count: 8
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 11 - count: 8
+ 47%|████▋     | 47/100 [12:44<03:49,  4.34s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Zeridoneus costalis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.39s/it][A1it [00:02,  2.39s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 17 - count: 10
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 17 - count: 10
+ 48%|████▊     | 48/100 [12:47<03:23,  3.91s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Nola bistriga.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.31s/it][A1it [00:02,  2.31s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+ 49%|████▉     | 49/100 [12:49<03:02,  3.58s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Nicrophorus przewalskii.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:15, 15.08s/it][A1it [00:15, 15.08s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 44 - count: 589
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 44 - count: 589
+ 50%|█████     | 50/100 [13:09<07:06,  8.53s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Desmocerus palliatus.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:04,  4.52s/it][A1it [00:04,  4.52s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 22 - count: 15
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 22 - count: 15
+ 51%|█████     | 51/100 [13:15<06:07,  7.51s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Tamasa burgessi.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.95s/it][A1it [00:02,  2.95s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 30 - count: 33
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 30 - count: 33
+ 52%|█████▏    | 52/100 [13:18<05:05,  6.37s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Protaetia pryeri.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.41s/it][A1it [00:02,  2.41s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 13 - count: 7
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 13 - count: 7
+ 53%|█████▎    | 53/100 [13:21<04:11,  5.35s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Nacoleia inouei.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.26s/it][A1it [00:02,  2.26s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 7 - count: 3
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 7 - count: 3
+ 54%|█████▍    | 54/100 [13:24<03:29,  4.56s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Lepismina persica.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.38s/it][A1it [00:02,  2.38s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 9 - count: 5
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 9 - count: 5
+ 55%|█████▌    | 55/100 [13:27<03:02,  4.06s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Hyarotis microstictum.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.32s/it][A1it [00:02,  2.32s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+ 56%|█████▌    | 56/100 [13:30<02:41,  3.68s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Zeheba lucidata.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:17, 17.28s/it][A1it [00:17, 17.28s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 48 - count: 740
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 48 - count: 740
+ 57%|█████▋    | 57/100 [13:53<06:49,  9.53s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Petrophila canadensis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.45s/it][A1it [00:02,  2.45s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 4 - count: 2
+ 58%|█████▊    | 58/100 [13:56<05:16,  7.54s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Perigonia caryae.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:04,  4.23s/it][A1it [00:04,  4.23s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 40 - count: 96
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 40 - count: 96
+ 59%|█████▉    | 59/100 [14:01<04:43,  6.91s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Ornebius fuscicerci.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.70s/it][A1it [00:02,  2.70s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 14 - count: 8
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 14 - count: 8
+ 60%|██████    | 60/100 [14:04<03:51,  5.78s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Chrysobothris rotundicollis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.39s/it][A1it [00:02,  2.39s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 17 - count: 11
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 17 - count: 11
+ 61%|██████    | 61/100 [14:07<03:12,  4.93s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Onthophagus variolosus.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.67s/it][A1it [00:02,  2.67s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 24 - count: 21
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 24 - count: 21
+ 62%|██████▏   | 62/100 [14:10<02:48,  4.43s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Centris nigerrima.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:05,  5.14s/it][A1it [00:05,  5.14s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 30 - count: 40
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 30 - count: 40
+ 63%|██████▎   | 63/100 [14:16<03:01,  4.89s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Disonycha quinquelineata.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.37s/it][A1it [00:02,  2.37s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 9 - count: 5
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 9 - count: 5
+ 64%|██████▍   | 64/100 [14:19<02:34,  4.28s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Quedius semiobscurus.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.64s/it][A1it [00:02,  2.64s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 21 - count: 16
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 21 - count: 16
+ 65%|██████▌   | 65/100 [14:23<02:18,  3.96s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Baroa vatala.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.44s/it][A1it [00:02,  2.44s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 11 - count: 6
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 11 - count: 6
+ 66%|██████▌   | 66/100 [14:25<02:04,  3.66s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Deuterophysa asychanalis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.74s/it][A1it [00:02,  2.74s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 3 - count: 3
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 3 - count: 3
+ 67%|██████▋   | 67/100 [14:29<01:56,  3.52s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Triatoma venosa.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.45s/it][A1it [00:02,  2.45s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 13 - count: 8
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 13 - count: 8
+ 68%|██████▊   | 68/100 [14:32<01:47,  3.35s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Megaplectes monticola.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:07,  7.27s/it][A1it [00:07,  7.27s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 44 - count: 240
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 44 - count: 240
+ 69%|██████▉   | 69/100 [14:41<02:38,  5.11s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Macrophya annulata.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.39s/it][A1it [00:02,  2.39s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 9 - count: 5
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 9 - count: 5
+ 70%|███████   | 70/100 [14:44<02:13,  4.45s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Hermeuptychia fallax.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.36s/it][A1it [00:02,  2.36s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 5 - count: 3
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 5 - count: 3
+ 71%|███████   | 71/100 [14:47<01:55,  3.98s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Loxocera aristata.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.55s/it][A1it [00:02,  2.55s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 14 - count: 8
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 14 - count: 8
+ 72%|███████▏  | 72/100 [14:50<01:43,  3.71s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Xenochalepus maculicollis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.53s/it][A1it [00:02,  2.53s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+ 73%|███████▎  | 73/100 [14:53<01:34,  3.50s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Gymnastes perexquisitus.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.31s/it][A1it [00:02,  2.31s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 6 - count: 3
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 6 - count: 3
+ 74%|███████▍  | 74/100 [14:55<01:25,  3.28s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Iscadia diopis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Aphaena discolor.csv
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.25s/it][A1it [00:03,  3.25s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 10 - count: 15
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 10 - count: 15
+ 75%|███████▌  | 75/100 [14:59<01:25,  3.43s/it]File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.48s/it][A1it [00:02,  2.48s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 17 - count: 10
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 17 - count: 10
+ 76%|███████▌  | 76/100 [15:02<01:19,  3.31s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Lanephus njumanii.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.49s/it][A1it [00:02,  2.49s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+ 77%|███████▋  | 77/100 [15:05<01:13,  3.21s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Eulepidotis fortissima.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.15s/it][A1it [00:02,  2.15s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 3 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 3 - count: 1
+ 78%|███████▊  | 78/100 [15:08<01:06,  3.02s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Paectes subapicalis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:02,  2.34s/it][A1it [00:02,  2.34s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 2 - count: 1
+ 79%|███████▉  | 79/100 [15:11<01:01,  2.95s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Myrmetes paykulli.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:06,  6.98s/it][A1it [00:06,  6.98s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 35 - count: 101
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 35 - count: 101
+ 80%|████████  | 80/100 [15:19<01:30,  4.52s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Phylloteras nigrum.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A
+1it [00:03,  3.12s/it][A1it [00:03,  3.12s/it]
+worker  - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 23 - count: 26
+total   - success: 1.000 - failed to download: 0.000 - failed to resize: 0.000 - images per sec: 23 - count: 26
+ 81%|████████  | 81/100 [15:23<01:21,  4.31s/it]Sharding file number 1 of 1 called /dev/shm/inaturalist/species_csv/Calymera confinis.csv
+File sharded in 1 shards
+Downloading starting now, check your bandwidth speed (with bwm-ng)your cpu (with htop), and your disk usage (with iotop)!
+Starting the downloading of this file
+
+0it [00:00, ?it/s][A/home/u29/mohammadsmajdi/anaconda3/envs/aws/lib/python3.9/multiprocessing/resource_tracker.py:216: UserWarning: resource_tracker: There appear to be 9 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '

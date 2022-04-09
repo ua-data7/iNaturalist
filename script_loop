@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# bash script 20 21
+read -t 0
 
 export num_csvs=100
 
-i=0
+i=$1
 
 for n in {1..200}
 do
