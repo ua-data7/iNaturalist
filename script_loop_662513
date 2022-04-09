@@ -4,9 +4,9 @@
 
 export num_csvs=100
 
-i=0
+i=200
 
-for n in {1..200}
+for n in {0..200}
 do
 	i2=$((i+num_csvs-1))
 
