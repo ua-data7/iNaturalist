@@ -6,7 +6,9 @@ export num_csvs=100
 
 i=$1
 
-for n in {1..200}
+#for n in {1..$2} #200}
+
+while [ $i -lt $2 ]
 do
 	i2=$((i+num_csvs-1))
 
