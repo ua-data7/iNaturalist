@@ -13,15 +13,15 @@ import shutil
 
 # getting the start and end index for csv files
 parser = argparse.ArgumentParser('reading the start and end index for csvs')
-parser.add_argument('--start_index', type=int, default=0)
-parser.add_argument('--end_index', type=int, default=2)
-parser.add_argument('--data_dir', type=str, default='/dev/shm/inaturalist')
+parser.add_argument('--start_index', type=int, default=95300)
+parser.add_argument('--end_index', type=int, default=95398)
+parser.add_argument('--data_dir', type=str, default='data')
 parser.add_argument('--force_rewrite_csv_list', type=bool, default=0)
 args = parser.parse_args()
 
 # path that the csv_list.csv file will be stored in
-# csv_list_dir = f'{args.data_dir}/csv_list.csv'
-csv_list_dir = '/home/u29/mohammadsmajdi/projects/inaturalist/data/csv_list.csv'
+csv_list_dir = f'{args.data_dir}/csv_list.csv'
+# csv_list_dir = '/home/u29/mohammadsmajdi/projects/inaturalist/data/csv_list.csv'
 
 
 def save_csv_list():
