@@ -1,5 +1,13 @@
 # iNaturalist Open Data
 
+### Command to list files in s3 bucket:
+
+```
+aws s3 ls s3://inaturalist-open-data/ --no-sign-request 
+```
+
+
+
 The iNaturalist Open Dataset is one of the world’s largest public datasets of photos of living organisms, containing over 70 million photos. Understanding how to make use of these photos requires a basic understanding of the **iNaturalist observations** that accompany these photos.
 
 [iNaturalist](https://www.inaturalist.org) is a community science platform where participants record observations representing encounters with individual organisms. Each observation can have one or more photos as evidence of the encounter. All observations are associated with a single user who recorded the observation. Much of the activity on the platform relates to identifying the single taxon that the organism represents. In the cartoon below, an observer creates an observation with three associated photos representing a specific butterfly taxon.
